@@ -14,7 +14,7 @@ Our initial dataset was sourced from Kaggle. It's a dataset containing individua
 URL: https://www.kaggle.com/kaushiksuresh147/covidvaccine-tweets
 
 
-## Contact: 
+### Contact: 
 - Alejandro Barnatan
 - ale.barn19@gmail.com
 - 503.867.3455
