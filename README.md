@@ -15,6 +15,6 @@ URL: https://www.kaggle.com/kaushiksuresh147/covidvaccine-tweets
 
 
 ### Contact: 
-Alejandro Barnatan 
-ale.barn19@gmail.com 
-503.867.3455
+- Alejandro Barnatan
+- ale.barn19@gmail.com
+- 503.867.3455
