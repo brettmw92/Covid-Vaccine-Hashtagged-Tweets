@@ -6,6 +6,9 @@ Analyze the sentiment of tweets related to the COVID-19 Vaccine and visualize in
 ### Business question: 
 Is twitter a viable marketing tool to use for the roll out of our new covid vaccine? 
 
+### Our Analysis
+[Twitter Vaccine Presentation](https://github.com/brettmw92/Covid-Vaccine-Hashtagged-Tweets/files/6430984/Twitter.Vaccine.Slide.Deck.pdf)
+
 ### Team: 
 Brett Williams, Sung Choo, Aaron Garber-Paul, Alejandro Barnatan, Adam Fancher 
 
